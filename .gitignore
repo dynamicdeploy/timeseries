@@ -1,0 +1,11 @@
+
+*.lock
+CassandraTraining/.DS_Store
+*.ide
+*.ide-shm
+*.ide-wal
+CassandraTraining/.vs/CassandraTraining/xs/UserPrefs.xml
+*.cache
+*.props
+*.targets
+CassandraTraining/CassandraTraining/obj/project.assets.json
